@@ -1,3 +1,4 @@
+String password = props.getProperty("db.password");
 PreparedStatement ps = con.prepareStatement("select SYSDATE from dual");
 OracleJdbcTest test = new OracleJdbcTest();
 public static void main(String[] args)
