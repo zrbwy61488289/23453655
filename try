@@ -1,3 +1,4 @@
+} catch (IOException e) {
 public class OracleJdbcTest
 ResultSet rs = ps.executeQuery();
 public void fetch() throws SQLException, IOException
