@@ -1,3 +1,4 @@
+Class.forName(driverClass);
 } catch (IOException e) {
 public class OracleJdbcTest
 ResultSet rs = ps.executeQuery();
