@@ -1,4 +1,5 @@
 public void fetch() throws SQLException, IOException
+public void fetch() throws SQLException, IOException
 out.write(”aString”);
 OracleJdbcTest test = new OracleJdbcTest();
 public void init(FileInputStream fs) throws ClassNotFoundException, SQLException, FileNotFoundException, IOException
