@@ -1,3 +1,4 @@
+} catch (IOException e) {
 if (out != null) {
 public void fetch() throws SQLException, IOException
 public void fetch() throws SQLException, IOException
