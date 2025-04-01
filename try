@@ -1,3 +1,4 @@
+public class OracleJdbcTest
 con=DriverManager.getConnection(url, userName, password);
 } catch (IOException e) {
 if (out != null) {
