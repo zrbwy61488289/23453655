@@ -1,3 +1,4 @@
+PreparedStatement ps = con.prepareStatement("select SYSDATE from dual");
 public class OracleJdbcTest
 con=DriverManager.getConnection(url, userName, password);
 } catch (IOException e) {
